@@ -49,9 +49,6 @@ Oi, sou o Gustavo Arvani de Oliveira 🤓, nasci e cresci em Guarulhos-SP. Atual
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-<br/>
-<br/>
 
-### 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavo-arvani&show_icons=true&theme=tokyonight)
+
