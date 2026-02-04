@@ -49,6 +49,10 @@ Oi, sou o Gustavo Arvani de Oliveira 🤓, nasci e cresci em Guarulhos-SP. Atual
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
+<br/>
+<br/>
+
+![Gif](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 
 
