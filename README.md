@@ -2,15 +2,9 @@
 
 **'Desenvolvedor Front-end'**
 
-Oi, sou o Gustavo Arvani de Oliveira 🤓, nasci e cresci em Guarulhos-SP. Atualmente curso Engenharia de Software pela Uninter e estou focado em desenvolvimendo de sites 👷🏻‍♂️. Também gosto de música e toco violino 🎻.
+Oi, sou o Gustavo Arvani de Oliveira 🤓, nasci e cresci em Guarulhos-SP. Atualmente curso Engenharia de Software pela Uninter e estou focado em desenvolvimendo de sites 👷🏻‍♂️.
 
 <p align="left">
-    <a href="https://www.youtube.com/@gustavoarvani.violino">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCocV7kjc2QFXgLzcHwpsaDg?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
         <a href="https://www.linkedin.com/in/gustavo-arvani-de-oliveira-26196836b/" target="_blank">
      <img 
         alt="LinkedIn" 
